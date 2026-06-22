@@ -16,7 +16,16 @@
 * 2026/03開始擔任國立臺北商業大學資訊管理系數學科助理教師，輔導五專一至二年級高中數學。
 * 2026/07時擔任資管系暑假期間研習講師，負責教導50多人的班級LLM與Agent的原理並以AI協作開發Next.js全端專案。時長兩周。
 你可以點擊以下頁面了解我在程式以外的經歷(￣∇￣)：
-[![關於我](https://hyc.eshachem.com/program/about-me/)]
+<!-- 這是大顆的官網連結按鈕（模仿凱俊頂部的社交按鈕風格） -->
+### 🌐 歡迎造訪我的網站
+[![個人官網](https://img.shields.io/badge/個人官網-181717?style=for-the-badge&logo=githubpages&logoColor=white)](https://你的官網網址.com)
+
+---
+
+<!-- 這是你指定的 React, Node.js, Next.js 技術圖示排成一列 -->
+### 🛠️ 技術棧 (Tech Stack)
+
+![](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 
 ### 技能專長
 
