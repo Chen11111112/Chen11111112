@@ -1,9 +1,24 @@
 ## 你好 👋
-我是陳泓毓，你可以點擊以下頁面了解我的經歷：
+我是陳泓毓，我在臺北榮民總醫院擔任專案系統工程師，精通Next.js等網頁系統開發技術。
+
+我透過網路自學競賽程式與C++，取得以下佳績:
+* 2026 全國大專Python數據分析菁英挑戰賽暨高中程式設計競賽 – 高中組第一名
+* 2025 十校技職聯盟資安與程式設計競賽 – 競賽組第三名
+* APCS 觀念:3級分 | 實作:2級分
+* 2025 九校聯盟程式設計競賽 – 佳作 (跨級參賽)
+* 2026 全國程式力競賽 – 高中組佳作
+* 2024 全國大專Python數據分析菁英挑戰賽暨高中程式設計競賽 – 高中組佳作
+
+### 教師助理經歷
+我在2025/09開始擔任國立臺北商業大學資訊管理系電腦網路科助理教師，輔導五專三年級同學機房的操作與網路概論。
+我在2026/01時擔任資管系寒假期間研習講師，負責教導50多人的班級使用Flask開發與專案管理。時長兩周。
+我於2026/03開始擔任國立臺北商業大學資訊管理系數學科助理教師，輔導五專一至二年級高中數學。
+我在2026/07時擔任資管系暑假期間研習講師，負責教導50多人的班級LLM與Agent的原理並以AI協作開發Next.js全端專案。時長兩周。
+你可以點擊以下頁面了解我的經歷：
 ![關於我](https://hyc.eshachem.com/program/about-me/)
 
 ### 技能專長
-我在臺北榮民總醫院擔任專案系統工程師，精通Next.js等網頁系統開發技術。
+
 #### 開發技術
 ![](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![](https://img.shields.io/badge/Golang-00ADD8?style=flat-square&logo=go&logoColor=white) ![](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white) ![](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 
