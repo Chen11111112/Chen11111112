@@ -6,6 +6,7 @@
 ![](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 
 ---
+## 🏆自學與獲獎經歷
 我透過網路自學競賽程式與C++，取得以下佳績:
 * 🥇2026 全國大專Python數據分析菁英挑戰賽暨高中程式設計競賽 – 高中組第一名
 * 🥉2025 十校技職聯盟資安與程式設計競賽 – 競賽組第三名
@@ -15,7 +16,7 @@
 * 🏅2024 全國大專Python數據分析菁英挑戰賽暨高中程式設計競賽 – 高中組佳作
 
 ---
-### 📚教師助理經歷
+## 📚教師助理經歷
 * 2025/09開始擔任國立臺北商業大學資訊管理系電腦網路科助理教師，輔導五專三年級同學機房的操作與網路概論。
 * 2026/01時擔任資管系寒假期間研習講師，負責教導50多人的班級使用Flask開發與專案管理。時長兩周。
 * 2026/03開始擔任國立臺北商業大學資訊管理系數學科助理教師，輔導五專一至二年級高中數學。
@@ -26,7 +27,7 @@
 [![關於我](https://img.shields.io/badge/關於我-181717?style=for-the-badge&logo=githubpages&logoColor=white)](https://hyc.eshachem.com/program/about-me)
 
 ---
-### 🛠️ 技能專長與專業領域
+## 🛠️ 技能專長與專業領域
 
 #### 💻 開發語言
 ![](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white) ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
@@ -34,10 +35,8 @@
 #### 🌐 前端與網頁框架
 ![](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 
-#### ⚙️ 後端開發
+#### ⚙️ 後端開發與資料庫
 ![](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
-
-#### 🗄️ 資料庫
 ![](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
 #### 🐋 部署與版本控制
