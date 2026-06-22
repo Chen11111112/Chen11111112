@@ -1,6 +1,9 @@
-## Hi there 👋
-### 技能專長
+## 你好 👋
+我是陳泓毓，你可以點擊以下頁面了解我的經歷：
+![](https://hyc.eshachem.com/program/about-me/)
 
+### 技能專長
+我在臺北榮民總醫院擔任專案系統工程師，精通Next.js等網頁系統開發技術。
 #### 開發技術
 ![](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![](https://img.shields.io/badge/Golang-00ADD8?style=flat-square&logo=go&logoColor=white) ![](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white) ![](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 
