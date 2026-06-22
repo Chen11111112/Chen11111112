@@ -1,6 +1,6 @@
 ## 你好 👋
 我是陳泓毓，你可以點擊以下頁面了解我的經歷：
-![](https://hyc.eshachem.com/program/about-me/)
+![關於我](https://hyc.eshachem.com/program/about-me/)
 
 ### 技能專長
 我在臺北榮民總醫院擔任專案系統工程師，精通Next.js等網頁系統開發技術。
