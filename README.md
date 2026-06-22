@@ -1,7 +1,7 @@
 ## 👋你好
 我是陳泓毓，我在**臺北榮民總醫院**擔任**專案系統工程師**💻，精通**Next.js**等網頁系統開發技術。
 我也擁有**Scrum Master**證照🪪並在國立臺北商業大學-商業智慧研究中心擔任**敏捷式管理教練**。
-[![個人官網](https://img.shields.io/badge/個人官網-181717?style=for-the-badge&logo=githubpages&logoColor=white)](https://hyc.esahchem.com)
+[![個人官網](https://img.shields.io/badge/個人官網-181717?style=for-the-badge&logo=githubpages&logoColor=white)](https://hyc.eshachem.com)
 ![](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 
 ---
@@ -13,6 +13,7 @@
 * 🏅2026 全國程式力競賽 – 高中組佳作
 * 🏅2024 全國大專Python數據分析菁英挑戰賽暨高中程式設計競賽 – 高中組佳作
 
+---
 ### 📚教師助理經歷
 * 2025/09開始擔任國立臺北商業大學資訊管理系電腦網路科助理教師，輔導五專三年級同學機房的操作與網路概論。
 * 2026/01時擔任資管系寒假期間研習講師，負責教導50多人的班級使用Flask開發與專案管理。時長兩周。
@@ -20,7 +21,7 @@
 * 2026/07時擔任資管系暑假期間研習講師，負責教導50多人的班級LLM與Agent的原理並以AI協作開發Next.js全端專案。時長兩周。
 你可以點擊以下頁面了解我在程式以外的經歷(￣∇￣)：
 
-[![關於我](https://img.shields.io/badge/個人官網-181717?style=for-the-badge&logo=githubpages&logoColor=white)](https://hyc.eshachem.com/program/about-me)
+[![關於我](https://img.shields.io/badge/關於我-181717?style=for-the-badge&logo=githubpages&logoColor=white)](https://hyc.eshachem.com/program/about-me)
 
 ---
 
