@@ -45,9 +45,6 @@
 #### 🔧 硬體
 ![](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white) ![](https://img.shields.io/badge/3D%20Printing-C92127?style=flat-square&logo=ultimaker&logoColor=white)
 
-#### 📝 文件
-![](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white) ![](https://img.shields.io/badge/Mermaid-FFEE66?style=flat-square&logo=mermaid&logoColor=black) ![](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
-
-#### 👥 專案管理
-![](https://img.shields.io/badge/Scrum-1BB2E6?style=flat-square&logo=scrumAlliance&logoColor=white) ![](https://img.shields.io/badge/PMP-00599C?style=flat-square&logo=gitbook&logoColor=white)
+#### 👥 專案管理與文書
+![](https://img.shields.io/badge/Scrum-1BB2E6?style=flat-square&logo=scrumAlliance&logoColor=white) ![](https://img.shields.io/badge/PMP-00599C?style=flat-square&logo=gitbook&logoColor=white)![](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white) ![](https://img.shields.io/badge/Mermaid-FFEE66?style=flat-square&logo=mermaid&logoColor=black) ![](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
 
