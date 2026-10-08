@@ -1,5 +1,5 @@
 ## 👋你好!
-我是陳泓毓，我在**臺北榮民總醫院**擔任**專案系統工程師**💻，精通**Next.js**等網頁系統開發技術。  
+我是陳泓毓，全端工程師💻，精通**Next.js**等網頁系統開發技術。  
 
 我也擁有**Scrum Master**證照🪪並在國立臺北商業大學-商業智慧研究中心擔任**敏捷式管理教練**。  
 [![個人官網](https://img.shields.io/badge/個人官網-181717?style=for-the-badge&logo=githubpages&logoColor=white)](https://hyc.eshachem.com)
@@ -13,7 +13,7 @@
 
 你可以點擊以下頁面了解我的經歷(￣∇￣)：
 
-[![關於我](https://img.shields.io/badge/關於我-181717?style=for-the-badge&logo=githubpages&logoColor=white)](https://hyc.eshachem.com/program/about-me)
+[![關於我](https://img.shields.io/badge/關於我-181717?style=for-the-badge&logo=githubpages&logoColor=white)](https://hychen.space)
 
 ---
 ## 🛠️ 技能專長與專業領域
